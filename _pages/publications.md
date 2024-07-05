@@ -11,9 +11,14 @@ nav_order: 2
 <div class="publications">
 
 <h2>Scientific papers</h2>
-{% bibliography --query --group_by none @*[doc_type!=these]* %}
+{% bibliography --query @*[doc_type!=these]* %}
 
 <h2>Theses</h2>
-{% bibliography --query --group_by none @*[doc_type=these]* %}
+{% bibliography --query @*[doc_type=these]* %}
 
 </div>
+
+
+
+
+
