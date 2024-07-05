@@ -2,24 +2,34 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Post-doc at <a href="https://www.telecom-paristech.fr/fr/recherche/laboratoires/laboratoire-traitement-et-communication-de-linformation-ltci">LTCI</a> Telecom Paris, Institut Polytechnique de Paris <br> <strong>Email:</strong> fernandez [at] telecom-paris [dot] fr
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Office 5C01, Telecom Paris</p>
+    <p>19 Place Marguerite Perey</p>
+    <p>91120 Palaiseau, France</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Since May 2023, I have been a postdoctoral researcher at the [IDS](https://www.telecom-paris.fr/fr/ecole/departements-enseignement-recherche/image-donnees-signal) (Image, Data and Signal) department of Telecom Paris, working under the guidance of Prof. [Stephan Clemençon](https://perso.telecom-paristech.fr/clemenco/). My current research focuses on anomaly detection on infinite dimensional spaces and applications of statistical depth functions for multivariate extreme value distributions.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I earned my PhD from Nanterre University in 2023, where I was supervised by Prof. [Patrice Bertail](https://bertail.perso.math.cnrs.fr/) and Prof. [Cécile Durot](https://www.parisnanterre.fr/cecile-durot). During my PhD, I worked on several estimation problems on beta null-recurrent Markov chains, including tail-index estimation, bootstrap methods, and non-linear cointegrated models. My thesis, titled *"Estimation Problems on Null Recurrent Time Series"*, can be found [here](https://theses.hal.science/tel-04267982/document).
+
+<h2> Research interests </h2>
+* Non-parametric estimation
+* Markov chains (specially beta-null recurrent ones)
+* Statistical depth functions
+* Anomaly detection algorithms
+* Bootstrap methods
+* Extreme value statistics
+
+
+My list of publications is available [here](/publications).
