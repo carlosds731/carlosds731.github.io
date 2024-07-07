@@ -23,6 +23,8 @@ Since May 2023, I have been a postdoctoral researcher at the [IDS](https://www.t
 
 I earned my PhD from Nanterre University in 2023, where I was supervised by Prof. [Patrice Bertail](https://bertail.perso.math.cnrs.fr/) and Prof. [Cécile Durot](https://www.parisnanterre.fr/cecile-durot). During my PhD, I worked on several estimation problems on beta null-recurrent Markov chains, including tail-index estimation, bootstrap methods, and non-linear cointegrated models. My thesis, titled *"Estimation Problems on Null Recurrent Time Series"*, can be found [here](https://theses.hal.science/tel-04267982/document).
 
+In addition to my academic career, I have been a software developer for more than 10 years. My full CV is [here](/assets/pdf/resumee_2024.pdf).
+
 <h2> Research interests </h2>
 * Non-parametric estimation
 * Markov chains (specially beta-null recurrent ones)
