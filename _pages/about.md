@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office 5C01, Telecom Paris</p>
+    <p>Office 5C02, Telecom Paris</p>
     <p>19 Place Marguerite Perey</p>
     <p>91120 Palaiseau, France</p>
 
