@@ -26,6 +26,7 @@ I earned my PhD from Nanterre University in 2023, where I was supervised by Prof
 In addition to my academic career, I have been a software developer for more than 10 years. My full CV is [here](/assets/pdf/resumee_2024.pdf).
 
 <h2> Research interests </h2>
+* Statistical learning
 * Non-parametric estimation
 * Markov chains (specially beta-null recurrent ones)
 * Statistical depth functions
